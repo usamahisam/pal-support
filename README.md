@@ -1,5 +1,5 @@
 
-# Palestine Banner widget for website. 🇵🇸
+# Palestine Widget Banner for website. 🇵🇸
 
 Show your support for Palestine by putting up a banner in support of Palestine.
 
